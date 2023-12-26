@@ -26,7 +26,7 @@ B-Tree는 어떤 한 데이터의 검색에서는 빠를 수 있으나, 모든 �
 ### 단점
 * 실제 Data에 접근하기 위해서는 무조건 트리의 맨 아래에 있는 leaf node까지 접근해야한다.
 
-
+### 차이
 ![image](https://github.com/RealMySQL-Study/REAL_MYSQL_STUDY/assets/67637716/9f1ecb2b-771c-4078-9cd4-abc1abd8ca3e)  
 
 
