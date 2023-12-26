@@ -1,5 +1,5 @@
 많은 게시물에서 `mysql, innoDB는 B+Tree이다.` 라는 글을 보았다.  
-그러나 mysql공식 홈페이지나 책에서는 B-Tree를 사용한다고 되어있다. (뭘 쓰는지 모르겠어요... Help!!)  
+그러나 mysql공식 홈페이지나 책에서는 B-Tree를 사용한다고 되어있다. (그러나 책의 내용을 잘 읽어보면 B-Tree가 아니라 B+Tree를 쓰는 것 같다.)  
 그래서 일단 B+Tree는 뭔지 알아보자!  
 https://dev.mysql.com/doc/refman/8.0/en/innodb-physical-structure.html  
 
